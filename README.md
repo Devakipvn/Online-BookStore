@@ -37,6 +37,14 @@ the-book-haven/
 - 📝 Review form with input validation
 - 🌐 Responsive design for mobile and desktop
 
+## 🙋‍♀️ About Me
+
+**Devaki PVN**  
+Aspiring FullStack Developer  
+💼 [GitHub](https://github.com/Devakipvn)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pvndevaki)  
+📧 devakipvn@gmail.com
+
 
 ## 📄 License
 
