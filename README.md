@@ -22,12 +22,12 @@ It is fully responsive and interactive, offering a smooth user experience across
 
 
 ## 📂 Project Structure
-
+```
 the-book-haven/
 ├── index.html # Main HTML file
 ├── style.css # All styling in one CSS file
 └── script.js # JavaScript to add interactivity (if separated)
-
+```
 
 ## ✨ Key Features
 
