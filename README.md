@@ -27,9 +27,6 @@ It is fully responsive and interactive, offering a smooth user experience across
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">  
 </p>
 
-## 📂 Project Structure
-
-
 
 ## 📂 Project Structure
 ```
